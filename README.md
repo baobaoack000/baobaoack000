@@ -15,6 +15,8 @@ No Merging
 
 Skills: REACT / JS / PYTHON / C#
 
+[![My Skills](https://skillicons.dev/icons?i=react,js,python,cs,nodejs)](https://skillicons.dev)
+
 - 🔭 I’m currently working on Full-Stack 
 - 🌱 I’m currently learning Devops 
 - 🤔 I’m looking for help with Python 
